@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\bin\Debug\BaoCao.exe.config
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\bin\Debug\BaoCao.exe
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\bin\Debug\BaoCao.pdb
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.Login.resources
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.exe
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.pdb
+C:\Users\PC\Desktop\luongtrongnghia\BaoCao\obj\Debug\BaoCao.QLSV.resources
